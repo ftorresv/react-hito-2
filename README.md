@@ -1,2 +1,2 @@
 React Hito-2
-Se agrega pagina Register y Login. Se instala Browser Router para mejorar la interfaz.
+Se instala Browser Route para mejorar la interfaz. 
